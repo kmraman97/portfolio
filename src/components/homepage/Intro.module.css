@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Biryani:wght@900&display=swap");
+
+.name {
+  align-items: center;
+  text-align: justify;
+  margin-left: 10%;
+  margin-top: 25%;
+  position: relative;
+  font-size: 200%;
+  color: #008080;
+  justify-content: center;
+  font-family: "Biryani", sans-serif;
+}
+
+.n1 {
+  margin-top: 0%;
+}
+
+.n2 {
+  margin-top: -4%;
+}
+
+.n3 {
+  margin-top: -4%;
+}
+
+.tagline {
+  color: #1a7272;
+  margin-left: 16.5%;
+}
